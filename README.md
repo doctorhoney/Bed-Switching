@@ -288,7 +288,6 @@ Created by \*\*Doctor\_honey\*\*.
 
 
 
-The original concept, feature design and gameplay testing are by the project author. The implementation was developed using AI coding agents, with manual testing and iterative bug fixing.
 
 
 
